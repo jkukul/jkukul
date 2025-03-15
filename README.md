@@ -1,4 +1,7 @@
-## Hi there 👋
+✨ I love my occupation so every day I'm on vacation ✨
+
+![Smile](./gif/japanese_bread.gif)
+
 
 <!--
 **jkukul/jkukul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
